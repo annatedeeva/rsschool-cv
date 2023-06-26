@@ -34,3 +34,12 @@ const zeroFuel = (distanceToPump, mpg, fuelLeft) => {
   }
 };
 ```
+## Education:
+* Project manager
+* Bookkeeper
+* Courses: CS50 lectures, HTML Academy, Hexlet, RS School, Stepic.
+
+## Languages:
+* Russian - Native
+* English - A2
+* German - Basic
